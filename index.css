@@ -1,0 +1,12 @@
+.sign{
+    color: black;
+display: flex;
+justify-content: center;
+
+}
+
+.whole{
+    display: flex;
+    
+ flex-direction: column; 
+}
